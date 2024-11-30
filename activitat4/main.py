@@ -29,7 +29,6 @@ print(cotxe_2.getColor())
 print()
 
 # Aquestes son les tres instancies de colibrí 
-from Colibri import Cotxe
 colibri_1 = Cotxe(tamany = "Petit", color = "Vermell", nom = "Archilochus", velocitat = 100, anys = 2)
 colibri_2 = Cotxe(tamany = "Petit", color = "Verd", nom = "Trochilus", velocitat = 60, anys = 4)
 colibri_3 = Cotxe(tamany = "Mitja", color = "Groc", nom = "Thalassinus", velocitat = 60, anys = 2)
